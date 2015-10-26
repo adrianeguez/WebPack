@@ -44,7 +44,7 @@
 /* 0 */
 /***/ function(module, exports) {
 
-	document.write('Bienvenidos a los conciertos de Cabello Grande');
+	document.write('Bienvenidos a los conciertos de Cabello Grande!!!');
 
 	console.log('App cargada');
 
